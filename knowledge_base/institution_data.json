@@ -1,0 +1,113 @@
+{
+  "institution_profile": {
+    "official_name": "Pragati Engineering College (Autonomous)",
+    "status": "Autonomous, Permanently Affiliated to JNTUK",
+    "established": 2001,
+    "founder": "Dr. Paruchuri Krishna Rao",
+    "accreditations": [
+      "NAAC 'A' Grade",
+      "NBA Accredited (CSE, ECE, EEE, ME, IT)",
+      "UGC 2(f) & 12(b) Recognition"
+    ],
+    "location": {
+      "address": "1-378, ADB Road, Surampalem, Near Peddapuram, East Godavari District, AP - 533437",
+      "campus_area": "25-acre lush green campus",
+      "plinth_area": "31,263.62 Sq. Mtrs"
+    },
+    "contact": {
+      "landline": "08852-252232, 252233",
+      "mobile": "+91 7330826667",
+      "email": "pragati@pragati.ac.in",
+      "website": "https://www.pragati.ac.in"
+    }
+  },
+  "academic_structure_2024_2025": {
+    "btech_programs": [
+      { "code": "CSE", "name": "Computer Science & Engineering", "intake": 360, "fee_per_year": 77800 },
+      { "code": "CAI", "name": "CSE (Artificial Intelligence)", "intake": 180, "fee_per_year": 77800 },
+      { "code": "CSM", "name": "CSE (AI & Machine Learning)", "intake": 180, "fee_per_year": 77800 },
+      { "code": "CSD", "name": "CSE (Data Science)", "intake": 180, "fee_per_year": 77800 },
+      { "code": "CSC", "name": "CSE (Cyber Security)", "intake": 60, "fee_per_year": 77800 },
+      { "code": "ECE", "name": "Electronics & Communication", "intake": 240, "fee_per_year": 77800 },
+      { "code": "EEE", "name": "Electrical & Electronics", "intake": 60, "fee_per_year": 77800 },
+      { "code": "INF", "name": "Information Technology", "intake": 60, "fee_per_year": 77800 },
+      { "code": "MEC", "name": "Mechanical Engineering", "intake": 60, "fee_per_year": 77800 },
+      { "code": "CIV", "name": "Civil Engineering", "intake": 60, "fee_per_year": 77800 }
+    ],
+    "mtech_specializations": [
+      { "name": "Computer Science & Engineering", "intake": 18, "fee_per_year": 81600 },
+      { "name": "VLSI System Design", "intake": 9, "fee_per_year": 81600 },
+      { "name": "Power Electronics & Electric Drives", "intake": 18, "fee_per_year": 81600 },
+      { "name": "CAD/CAM", "intake": 18, "fee_per_year": 81600 }
+    ]
+  },
+  "placement_intelligence": {
+    "recent_stats": {
+      "2025_placements": "1625 students placed",
+      "2024_placements": "1412 students placed",
+      "highest_package": "40 LPA (Autodesk)",
+      "median_salary_nirf": "6.0 LPA",
+      "top_tier_offers": [
+        "Amazon: 29.26 LPA",
+        "Tvarana: 26 LPA",
+        "CISCO: 17.39 LPA",
+        "Flipkart: 13.52 LPA",
+        "HP: 10.8 LPA"
+      ]
+    },
+    "key_recruiters": ["TCS", "Infosys", "Accenture", "Cognizant", "Deloitte", "Wipro", "HCL", "Amazon", "Microsoft", "CISCO"],
+    "training_ecosystem": [
+      "Career Development Centre (CDC)",
+      "All India No.1 in AICTE-EDUSKILLS Virtual Internships",
+      "Industry collaborations with Salesforce, Google Cloud, and AWS Academy"
+    ]
+  },
+  "department_infrastructure_details": {
+    "cse_it_labs": {
+      "systems": "900+ high-end computers",
+      "software_stack": ["Python 3.7", "JDK 8", "Oracle 11g", "MongoDB", "Ruby on Rails", "IBM Rational Rose", "Weka", "Anaconda"],
+      "special_labs": ["Mobile Computing Research Lab (supported by TCS)", "Deep Learning Studio"]
+    },
+    "research_centers": [
+      "CSE, ECE, EEE, ME, and Chemistry are JNTUK-recognized research centers",
+      "Technical Skill Development Institution (TSDI) in collaboration with APSSDC"
+    ]
+  },
+  "campus_life_and_facilities": {
+    "amenities": {
+      "hostels": "Separate AC/Non-AC blocks for Boys and Girls; hygienic mess food",
+      "library": "53,216+ volumes, 928+ E-journals, 300+ seating capacity, DELNET & N-LIST membership",
+      "transport": "Daily bus services covering Kakinada, Rajahmundry, and surrounding villages",
+      "sports": ["200m Athletic Track", "Cricket Ground & Nets", "Basketball Court", "Indoor Table Tennis & Gym"]
+    },
+    "student_clubs": [
+      "PRAKRUTHI (Environmental)",
+      "HOPE (Social Change)",
+      "Robotics Club",
+      "Data Analytics Club",
+      "PRGASOFT (Software Development)",
+      "Innovation & Start-up Cell"
+    ],
+    "flagship_events": {
+      "STRIDES": "Annual Mega Technical Fest",
+      "PRISM": "Annual Cultural Festival",
+      "Technical_Chapters": ["IEEE", "ISTE", "IETE", "CSI"]
+    }
+  },
+  "scholarships_and_financials": {
+    "pec_merit_scholarships": [
+      { "rank_range": "ECET 1-500", "amount": "Rs. 15,000" },
+      { "rank_range": "ECET 501-1500", "amount": "Rs. 10,000" },
+      { "rank_range": "ECET 1501-2500", "amount": "Rs. 5,000" }
+    ],
+    "government_schemes": ["AP Government Fee Reimbursement (Jagananna Vidya Deevena)"]
+  },
+  "administrative_regulations": {
+    "attendance": "Minimum 75% mandatory (65% with medical condonation)",
+    "grading": "CGPA system based on 180 total credits for B.Tech",
+    "honor_classes": {
+      "distinction": "CGPA >= 7.75 (no backlogs)",
+      "first_class": "CGPA 6.75 - 7.74"
+    }
+  }
+}

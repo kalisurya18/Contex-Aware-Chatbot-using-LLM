@@ -1,0 +1,5 @@
+body { background-color: #f8fafc; font-family: 'Inter', sans-serif; }
+.chat-window { height: 70vh; overflow-y: auto; scroll-behavior: smooth; }
+.user-msg { background-color: #4f46e5; color: white; border-radius: 15px 15px 0 15px; align-self: flex-end; }
+.bot-msg { background-color: #e2e8f0; color: #1e293b; border-radius: 15px 15px 15px 0; align-self: flex-start; }
+.typing-indicator { font-size: 0.8rem; color: #64748b; font-style: italic; }
